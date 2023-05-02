@@ -1,0 +1,13 @@
+# Standards: 1.2
+---
+# @var teams_version:description: Version for the package
+# renovate: datasource=github-releases depName=IsmaelMartinez/teams-for-linux
+teams_version: 1.0.58
+
+# @var teams_arch:description: Architecture for the package
+teams_arch: amd64
+
+# @var teams_package:description: Download URL for the package to install
+teams_package: "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v{{ teams_version }}/teams-for-linux_{{ teams_version }}_{{ teams_arch }}.deb"
+
+...
