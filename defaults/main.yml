@@ -2,7 +2,7 @@
 ---
 # @var teams_version:description: Version for the package
 # renovate: datasource=github-releases depName=IsmaelMartinez/teams-for-linux
-teams_version: 1.0.83
+teams_version: 1.0.85
 
 # @var teams_arch:description: Architecture for the package
 teams_arch: amd64
