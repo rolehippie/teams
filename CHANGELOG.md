@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/rolehippie/teams/compare/v1.2.0...v1.2.1) (2023-07-31)
+
+
+### Bugfixes
+
+* **deps:** update dependency ismaelmartinez/teams-for-linux to v1.2.9 ([40a9f87](https://github.com/rolehippie/teams/commit/40a9f872c2bb077ee0bb076961c3903b9423b47e))
+
 ## [1.2.0](https://github.com/rolehippie/teams/compare/v1.1.4...v1.2.0) (2023-07-24)
 
 
