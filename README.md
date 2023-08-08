@@ -62,7 +62,7 @@ Version for the package
 #### Default value
 
 ```YAML
-teams_version: 1.3.0
+teams_version: 1.3.1
 ```
 
 ## Discovered Tags
