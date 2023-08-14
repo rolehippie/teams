@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/rolehippie/teams/compare/v1.3.0...v1.3.1) (2023-08-14)
+
+
+### Bugfixes
+
+* **deps:** update dependency ismaelmartinez/teams-for-linux to v1.3.1 ([4209a3b](https://github.com/rolehippie/teams/commit/4209a3b4658f5c3ba0bfb7fc2fbef57d7f93b93e))
+* **deps:** update dependency ismaelmartinez/teams-for-linux to v1.3.2 ([b617b78](https://github.com/rolehippie/teams/commit/b617b783276b6d229c19e2555b970db6120d9720))
+
 ## [1.3.0](https://github.com/rolehippie/teams/compare/v1.2.1...v1.3.0) (2023-08-07)
 
 
